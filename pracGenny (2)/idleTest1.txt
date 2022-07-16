@@ -1,0 +1,23 @@
+Root
+  control_box
+    pervis
+      stomach
+        chest
+          head
+            hair
+            hat
+          LShoulder
+            LArm1
+              Larm2
+                Lhand
+          RShoulder
+            RArm1
+              RArm2
+                RHand
+      Lleg1
+        Lleg2
+          LFoot
+      Rleg1
+        Rleg2
+          RFoot
+      gun
